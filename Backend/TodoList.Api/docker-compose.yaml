@@ -10,3 +10,5 @@ services:
       dockerfile: Dockerfile
     ports:
       - "5111:80"
+redis:
+    image: "redis:alpine"
