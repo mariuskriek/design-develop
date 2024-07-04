@@ -6,7 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 
-namespace TodoList.Api
+namespace TodoList.Api.Startup
 {
     public class Startup
     {
